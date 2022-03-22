@@ -9,7 +9,7 @@
   
   inputs.src-sphinx-master.flake = false;
   inputs.src-sphinx-master.owner = "Araq";
-  inputs.src-sphinx-master.ref   = "refs/heads/master";
+  inputs.src-sphinx-master.ref   = "master";
   inputs.src-sphinx-master.repo  = "sphinx";
   inputs.src-sphinx-master.type  = "github";
   
